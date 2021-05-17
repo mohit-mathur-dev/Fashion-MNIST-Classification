@@ -12,10 +12,12 @@ We have used several Conv2D, Max Pooling, Batch Normalization, Dropout and Dense
 
 ![](model-architecture.png)
 
-### Hyperparameters
-Following is the Hyperparameters values which we have used in this porject.
+### Hyperparameters  
+
+Following is the Hyperparameters values which we have used in this porject.  
+
 Name | Value
-------------
+-----|------
 Learning Rate | 0.0001
 Epochs | 30
 Batch Size | 32
