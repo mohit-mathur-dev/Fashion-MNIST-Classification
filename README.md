@@ -1,5 +1,5 @@
 # Fashion-MNIST-Classification
-This repo contains the famous Fashion MNIST Image Classification task which gives approx 94% Test Accuracy.
+This repo contains the famous Fashion MNIST Image Classification task which gives approx 94% Test Accuracy **without using Transfer Learning.**
 
 ## Datasets 
 Dataset is already available inside the keras library. You can load the data using `keras.datasets.fashion_mnist.load_data()`. Read more about the Datasets [here](https://www.kaggle.com/zalando-research/fashionmnist)
@@ -21,5 +21,9 @@ Classfiction Report for this project is as follows:
 
 ### Loss/Accuracy vs Epochs Plot
 
-![](loss-acc-plot.JPEG)
+![](loss-acc-plot.JPG)  
+
 We have got 93.81% Testing Accuracy and 93.81% F1-score.
+
+## Future Scope
+We can use some of the pre trained models like VGGNet, LeNet and improves the results.  
