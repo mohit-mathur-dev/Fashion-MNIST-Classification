@@ -13,9 +13,13 @@ We have used several Conv2D, Max Pooling, Batch Normalization, Dropout and Dense
 ![](model-architecture.png)
 
 ## Results and Evaluation
+
+### Classification Report
 Classfiction Report for this project is as follows: 
 
-![](classification-report.PNG)
+![](classification_report.PNG)
 
+### Loss/Accuracy vs Epochs Plot
 
+![](loss-acc-plot.JPEG)
 We have got 93.81% Testing Accuracy and 93.81% F1-score.
