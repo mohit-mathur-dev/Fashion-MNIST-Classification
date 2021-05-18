@@ -36,7 +36,7 @@ Classfiction Report for this project is as follows:
 
 ![](loss-acc-plot.JPG)  
 
-We have got 93.81% Testing Accuracy and 93.81% F1-score.
+We have got **93.81%** Testing Accuracy and 93.81% F1-score.
 
 ## Future Scope
 We can use some of the pre trained models like VGGNet, LeNet and improves the results.  
